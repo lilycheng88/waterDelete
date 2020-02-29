@@ -1,0 +1,3 @@
+/Users/lilycheng/Desktop/IMAGEPROCESS/CMakeFiles/rebuild_cache.dir
+/Users/lilycheng/Desktop/IMAGEPROCESS/CMakeFiles/edit_cache.dir
+/Users/lilycheng/Desktop/IMAGEPROCESS/CMakeFiles/DisplayImage.dir
